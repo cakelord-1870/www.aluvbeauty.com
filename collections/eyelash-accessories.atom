@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.aluvbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.aluvbeauty.com/collections/eyelash-accessories.atom"/>
+  <title>A Luv Beauty </title>
+  <updated>2021-07-29T11:20:08-04:00</updated>
+  <author>
+    <name>A Luv Beauty </name>
+  </author>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5214444257325</id>
+    <published>2021-07-29T11:20:08-04:00</published>
+    <updated>2021-07-29T11:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/18pc-bamboo-brush-set"/>
+    <title>18pc Bamboo Makeup Brush Set</title>
+    <s:type>Bamboo Brushes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-bamboo-brushes-18pc-bamboo-makeup-brush-set-28473597591597.jpg?v=1629568536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Bamboo Brushes<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="ali-title-AliPostDhMb-b6rsi">18pc Bamboo Makeup Brush Set </div>
+<div><span></span></div>
+<div>
+<div><span></span></div>
+<div id="5j50t">
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card0" data-cel-widget="">
+<div id="aplus3p_feature_div" data-feature-name="aplus3p" data-template-name="aplus3p" class="a-section a-spacing-none">
+<div class="aplus-v2 mobile celwidget" cel_widget_id="m-aplus" data-csa-c-id="6s7ac4-v4mr8u-8bbib-kjxg4y" data-cel-widget="m-aplus">
+<div class="celwidget aplus-module module-2" cel_widget_id="aplus-m-module-2" data-csa-c-id="2jdt58-ffxv4r-nybdmc-73zz4m" data-cel-widget="aplus-m-module-2">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<h3 class="a-spacing-mini"> Features &amp; details</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card1" data-cel-widget="">
+<div id="featureBulletsAndDetailBullets_feature_div" data-feature-name="featureBulletsAndDetailBullets" data-template-name="featureBulletsAndDetailBullets" class="a-section a-spacing-none">
+<div id="featurebullets_secondary_view_div" class="a-section">
+<div id="feature-bullets" class="a-section a-spacing-small">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">❤Professional Makeup Brush Set : This set includes 18 pieces makeup brushes for women, complete foundation, eyeshadow blending, blush, eyeliner &amp; face powder. this makeup brush set contains all your beauty essentials.Portable and convenient for daily use.</span></li>
+</ul>
+<p> </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">❤Superb Soft Bristles. The Brushes have a luxuriously silky soft feel with high density-fibres that have been designed and handcrafted by our industry experts , while also being soft and hypoallergenic to suit even sensitive skin .</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<span><br></span>
+<div><span><strong>* NO-SHEDDING &amp; DURABLE BRUSH HANDLE: </strong>High density fluffy bristle, soft but firm to hold makeup. </span></div>
+</div>
+<p> </p>
+<h3 class="a-spacing-mini">How to clean the makeup brushes?</h3>
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-text-bold">1.Wet the bristles with warm water. Place a drop of makeup brush cleanser or soap into the palm of your hand.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">2.Gently massage the tips of the bristles in your palm. Then Rinse the bristles.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">3.Squeeze out the excess moisture with a clean towel or in open are place.</span></span></li>
+</ul>
+<p>  </p>
+<p dir="ltr"><span>• Quantity:18 pcs</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brushes</s:tag>
+    <s:tag>makeup brushes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5214444257325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Bamboo Brushes</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/6651923071021</id>
+    <published>2021-07-29T01:09:44-04:00</published>
+    <updated>2021-07-29T01:09:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/rainbow-makeup-sponge-layered-latex-soft-makeup-blender"/>
+    <title>Rainbow Makeup Sponge, Soft Makeup Blender</title>
+    <s:type>Beauty blender</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-beauty-blender-rainbow-makeup-sponge-soft-makeup-blender-28435645857837.jpg?v=1627538047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>Beauty blender<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-4-card0" data-cel-widget="">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-section a-spacing-none">
+<h3>Description</h3>
+<div id="productDescription_fullView">
+<div class="a-section a-spacing-large text-direction-override" dir="auto">
+<p><b>How to use:</b></p>
+<p>1. Use the pointy side to get into hard-to-reach places, such as around the eyes, mouth, and nose. </p>
+<p>2. Use the round base for foundation and blush on the larger areas of your face such as your forehead, cheeks and chin. </p>
+<p>3. You can use it with dry or wet foundation. </p>
+<p>4. Rinse it and let it dry naturally after use. </p>
+<p>5. Clean as often as you like. </p>
+<p><b>How to clean: </b></p>
+<p>1. Clean the sponge with warm water and soap to prevent the spread of germs. </p>
+<p>2. Apply a small amount of gentle shampoo (or soap) to the sponge and work into a light lather. </p>
+<p>3. Rinse thoroughly and then dry it naturally under ventilated place. </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-4-card1" data-cel-widget="">
+<div id="featureBulletsAndDetailBullets_feature_div" data-feature-name="featureBulletsAndDetailBullets" data-template-name="featureBulletsAndDetailBullets" class="a-section a-spacing-none">
+<h3>Features &amp; details</h3>
+<div id="featurebullets_secondary_view_div" class="a-section">
+<div id="feature-bullets" class="a-section a-spacing-small">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">COLOR- Beautiful contrasting layered rainbow designed sponge.</span></li>
+<li><span class="a-list-item">FEATURES- Lightweight, soft and gentle on skin.</span></li>
+<li><span class="a-list-item">CLEAN- With gentle soap and water, let air dry.</span></li>
+<li><span class="a-list-item">DESIGN- Designed and shaped to enable precise application and blending of liquid or cream formulas in hard-to-reach areas of the face.</span></li>
+<li><span class="a-list-item">DISCLAIMER- *This product does contain latex. It will not get bigger when wet. Due to the layering technique, we are unable to make this kind with microfiber. The sponge is still soft and will absorb less product!</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty</s:tag>
+    <s:tag>beauty blender</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup sponge</s:tag>
+    <s:tag>rainbow beauty blender</s:tag>
+    <s:tag>sponge</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/6651923071021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Rainbow Beauty Blender</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5217302151213</id>
+    <published>2021-03-29T00:27:46-04:00</published>
+    <updated>2021-03-29T00:27:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/15pc-makeup-brush-set"/>
+    <title>15Pc Makeup Brush Set</title>
+    <s:type>Makeup brushes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-makeup-brushes-15pc-makeup-brush-set-28428941951021.jpg?v=1629568475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Makeup brushes<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="ali-title-AliPostDhMb-b6rsi">15pc Makeup Brush Set With Bag </div>
+<div><span></span></div>
+<div>
+<div><span></span></div>
+<div id="5j50t">
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card0" data-cel-widget="">
+<div id="aplus3p_feature_div" data-feature-name="aplus3p" data-template-name="aplus3p" class="a-section a-spacing-none">
+<div class="aplus-v2 mobile celwidget" data-csa-c-id="6s7ac4-v4mr8u-8bbib-kjxg4y" data-cel-widget="m-aplus" cel_widget_id="m-aplus">
+<div class="celwidget aplus-module module-2" data-csa-c-id="2jdt58-ffxv4r-nybdmc-73zz4m" data-cel-widget="aplus-m-module-2" cel_widget_id="aplus-m-module-2">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<h3 class="a-spacing-mini"> Features &amp; Details</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card1" data-cel-widget="">
+<div id="featureBulletsAndDetailBullets_feature_div" data-feature-name="featureBulletsAndDetailBullets" data-template-name="featureBulletsAndDetailBullets" class="a-section a-spacing-none">
+<div id="featurebullets_secondary_view_div" class="a-section">
+<div id="feature-bullets" class="a-section a-spacing-small">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">❤Professional Makeup Brush Set : This set includes 15 pieces makeup brushes for women, complete foundation, eyeshadow blending, blush, eyeliner &amp; face powder. this makeup brushes set contains all your beauty essentials.Portable and convenient for daily use.</span></li>
+<li><span class="a-list-item">❤Superb Soft Bristles. The Brushes have a luxuriously silky soft feel with high density-fibers that have been designed and handcrafted by our industry experts , while also being soft and hypoallergenic to suit even sensitive skin .Our beautiful makeup sets crafted with FSC certified wooden ergonomic handles and recycled aluminium ferrules.</span></li>
+<li><span class="a-list-item">❤Premium and Luxurious Cosmetic Bag - Our makeup brush set come with luxurious bag, easy to take and store. The cosmetic bag can conveniently protect, store and sort all brushes without worrying about damage, deformation or loss.</span></li>
+<li><span class="a-list-item">❤Classic Design - Black is always the classic color. Our Brush handles with high quality materials, which is durable offering a sense of luxury.</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<span><br></span>
+<div><span><strong>* NO-SHEDDING &amp; DURABLE BRUSH HANDLE: </strong>High density fluffy bristle, soft but firm to hold makeup. </span></div>
+</div>
+<p> </p>
+<h3 class="a-spacing-mini">How to clean the makeup brushes?</h3>
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-text-bold">1.Wet the bristles with warm water. Place a drop of makeup brush cleanser or soap into the palm of your hand.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">2.Gently massage the tips of the bristles in your palm. Then Rinse the bristles.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">3.Squeeze out the excess moisture with a clean towel or in open are place.</span></span></li>
+</ul>
+<p dir="ltr"><span>• Quantity:15 pcs</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brushes</s:tag>
+    <s:tag>makeup brushes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5217302151213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>15pc Brown Makeup Brush set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5211920105517</id>
+    <published>2021-03-29T00:27:42-04:00</published>
+    <updated>2021-03-29T00:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/15pc-make-up-brush-set-with-bag"/>
+    <title>15pc Make-up Brush Set With Bag</title>
+    <s:type>Powder Make-up Brush</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-powder-make-up-brush-15pc-make-up-brush-set-with-bag-28463556198445.jpg?v=1629568411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Powder Make-up Brush<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="ali-title-AliPostDhMb-b6rsi">15pc Makeup Brush Set With Bag </div>
+<div><span></span></div>
+<div>
+<div><span></span></div>
+<div id="5j50t">
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card0" data-cel-widget="">
+<div id="aplus3p_feature_div" data-feature-name="aplus3p" data-template-name="aplus3p" class="a-section a-spacing-none">
+<div class="aplus-v2 mobile celwidget" cel_widget_id="m-aplus" data-csa-c-id="6s7ac4-v4mr8u-8bbib-kjxg4y" data-cel-widget="m-aplus">
+<div class="celwidget aplus-module module-2" cel_widget_id="aplus-m-module-2" data-csa-c-id="2jdt58-ffxv4r-nybdmc-73zz4m" data-cel-widget="aplus-m-module-2">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<h3 class="a-spacing-mini"> Features &amp; details</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-cardui feature" data-a-card-type="basic" name="a-cardui-deck-autoname-1-card1" data-cel-widget="">
+<div id="featureBulletsAndDetailBullets_feature_div" data-feature-name="featureBulletsAndDetailBullets" data-template-name="featureBulletsAndDetailBullets" class="a-section a-spacing-none">
+<div id="featurebullets_secondary_view_div" class="a-section">
+<div id="feature-bullets" class="a-section a-spacing-small">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">❤Professional Makeup Brush Set : This set includes 15 pieces makeup brushes for women, complete foundation, eyeshadow blending, blush, eyeliner &amp; face powder. this makeup brushes set contains all your beauty essentials.Portable and convenient for daily use.</span></li>
+<li><span class="a-list-item">❤Superb Soft Bristles. The Brushes have a luxuriously silky soft feel with high density-fibers that have been designed and handcrafted by our industry experts , while also being soft and hypoallergenic to suit even sensitive skin .Our beautiful makeup sets crafted with FSC certified wooden ergonomic handles and recycled aluminium ferrules.</span></li>
+<li><span class="a-list-item">❤Premium and Luxurious Cosmetic Bag - Our makeup brush set come with luxurious bag, easy to take and store. The cosmetic bag can conveniently protect, store and sort all brushes without worrying about damage, deformation or loss.</span></li>
+<li><span class="a-list-item">❤Classic Design - Black is always the classic color. Our Brush handles with high quality materials, which is durable offering a sense of luxury.</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<span><br></span>
+<div><span><strong>* NO-SHEDDING &amp; DURABLE BRUSH HANDLE: </strong>High density fluffy bristle, soft but firm to hold makeup. </span></div>
+</div>
+<p> </p>
+<h3 class="a-spacing-mini">How to clean the makeup brushes?</h3>
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-text-bold">1.Wet the bristles with warm water. Place a drop of makeup brush cleanser or soap into the palm of your hand.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">2.Gently massage the tips of the bristles in your palm. Then Rinse the bristles.</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">3.Squeeze out the excess moisture with a clean towel or in open are place.</span></span></li>
+</ul>
+<p>  </p>
+<p dir="ltr"><span> </span></p>
+<p dir="ltr"><span>• Quantity:15 pcs</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brush set</s:tag>
+    <s:tag>brushes</s:tag>
+    <s:tag>makeup brushes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5211920105517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>15pc Silver Brush Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5172833189933</id>
+    <published>2021-03-29T00:27:40-04:00</published>
+    <updated>2021-03-29T00:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/eyelash-adhesive-glue"/>
+    <title>Eyelash Adhesive/Glue</title>
+    <s:type>Eyelash adhesive / glue</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-eyelash-adhesive-glue-eyelash-adhesive-glue-28465562353709.jpg?v=1627984789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>Eyelash adhesive / glue<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Description:</span></strong></p>
+<p><span>Waterproof eyelash adhesive/ Glue</span></p>
+<p><span>Apply a thin layer along the base of false lash.<br></span></p>
+<p><span>Waterproof, holds your false eyelashes securely in place all day.<br></span></p>
+<p><span>Waterproof Strong Clear False Eyelashe Glue </span></p>
+<p><span>Specification:<br></span></p>
+<p><span>Net Weight:7g<br></span></p>
+<p><span>Shelf life: 3 years<br></span></p>
+<p><span>Glue Color: Clear/Black<br></span></p>
+<p><span> </span></p>
+<p><strong><span>Directions:<br></span></strong></p>
+<p><span>Apply a thin layer along the base of false lash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash adhesive</s:tag>
+    <s:tag>eyelash glue</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5172833189933</id>
+      <title>Black</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Eyelash Glue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5172833189933</id>
+      <title>Clear White</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>eyelash adhesive</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5167952592941</id>
+    <published>2021-03-29T00:27:38-04:00</published>
+    <updated>2021-03-29T00:27:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/eyeshadow-pallet"/>
+    <title>18 Color Eyeshadow &amp; Glitter Palette</title>
+    <s:type>Eyeshadow Palette</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-eyeshadow-palette-18-color-eyeshadow-glitter-palette-17332773453869.jpg?v=1629568499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Eyeshadow Palette<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Nude List palette is richly toned, featuring 18 versatile shades that can be layered in infinite ways to create a vast array of looks with just one palette. Layer different textures to create unique combinations or add intrigue to smooth matte shades with a duo-chrome topper. From subtle, natural looks to dramatic statements and bold glittering looks, this palette will become your new essential for all your makeup routines. <br><br>How to use:</p>
+<p>Apply with your favorite Makeup brushes and blend. Mix and match the tones to create just about any look you dream up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye Makeup</s:tag>
+    <s:tag>eye shadow</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>eyeshadow pallets</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>review</s:tag>
+    <s:tag>www. aluvbeauty.com</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5167952592941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Shadow</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5160852127789</id>
+    <published>2021-03-29T00:27:34-04:00</published>
+    <updated>2021-03-29T00:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/eyelash-curler"/>
+    <title>Eyelash Curler</title>
+    <s:type>Eyelash curler</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-eyelash-curler-white-eyelash-curler-28429652000813.jpg?v=1627984096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Eyelash curler<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The must-have tool for the perfectly curled eyelash, our stylish eyelash curler can be used with false and natural lashes alike. It's super easy to use-  just clamp, squeeze and hold for a quick lift.</p>
+<p> </p>
+<p>HOW TO USE:</p>
+<div class="tab__content">1. Grip your natural lashes between the eyelash curler and the pad.</div>
+<div class="tab__content">
+<p> </p>
+<p>2. Squeeze lashes with even pressure for a few seconds, repeat as needed.</p>
+<p> </p>
+<p>3. For best results, use your favorite mascara to coat your natural lashes.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash curler</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5160852127789</id>
+      <title>White</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5160852127789</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>pink 1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5160852127789</id>
+      <title>Hot pink</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hot Pink1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541848621</id>
+    <published>2021-03-29T00:27:30-04:00</published>
+    <updated>2021-03-29T00:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/eyelash-curler-with-matching-scissors-set"/>
+    <title>Eyelash Curler and Scissor Set</title>
+    <s:type>Eyelash Accessories</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-eyelash-accessories-gold-eyelash-curler-and-scissor-set-17267896975405.jpg?v=1605064950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>Eyelash Accessories<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyelash Curler with Matching Scissor Set</p>
+<p>Tackle stray eyebrow hairs or trim your false lashes with our scissors. The tiny curved blade gives you perfect precision, and they fit easily into any makeup bag. <br>Eyelash curler is great for giving you a beautiful natural curl to your lashes. <br><br></p>
+<p>Scissor directions:</p>
+<ol>
+<li>For brows: Use mini scissors to trim and shape brows as needed.</li>
+<li>For lashes: Cut lashes down to fit eye width using the mini scissors.</li>
+</ol>
+<p>Eyelash Curler:</p>
+<p>The must-have tool for the perfectly curled eyelash, our stylish eyelash curler can be used with false and natural lashes alike. It's super easy to use-  just clamp, squeeze and hold for a quick lift.</p>
+<p> </p>
+<p>HOW TO USE:</p>
+<div class="tab__content">1. Grip your natural lashes between the eyelash curler and the pad.</div>
+<div class="tab__content"></div>
+<div class="tab__content">
+<p>2. Squeeze lashes with even pressure for a few seconds, repeat as needed.</p>
+<p>3. For best results, use your favorite mascara to coat your natural lashes.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curler</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash accessories</s:tag>
+    <s:tag>eyelash tools</s:tag>
+    <s:tag>lash curler</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>scissors</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541848621</id>
+      <title>Gold</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Gold1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541848621</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Rose Gold 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5178578042925</id>
+    <published>2020-09-01T16:04:28-04:00</published>
+    <updated>2020-09-01T16:04:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/passion-berry-eyeshadow-glitter-palette"/>
+    <title>Passion Berry Eyeshadow Palette</title>
+    <s:type>Eyeshadow Palette</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-eyeshadow-palette-passion-berry-eyeshadow-palette-28466220138541.jpg?v=1627998292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Eyeshadow Palette<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An essential eyeshadow collection with 18 shades in neutral to berry tones. Ultra Pigmented Eyeshadow &amp; Glitter Shades! Glide on with ease, for a seamless and flawless application! Stand out with these gorgeous everyday shades! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>eyeshadow palette</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5178578042925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>berry ES</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541783085</id>
+    <published>2020-07-14T03:21:41-04:00</published>
+    <updated>2020-07-14T03:21:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/tweezers"/>
+    <title>Lash Applicator</title>
+    <s:type>Lash Tweezer</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-lash-tweezer-rose-gold-lash-applicator-28465278451757.jpg?v=1627987142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>Lash Tweezer<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Lash Applicator</p>
+<p>Applying our lashes is already pretty easy. Our lash applicator just makes it even quicker and way more precise. One of the most essential lash accessories, they're here to amp-up your make-up routine.</p>
+<p> </p>
+<p><span>Directions: </span><span><br>1. Use the head of the applicator to grip onto a lash.</span></p>
+<p>2. Place lash on top of your natural lashes and release grip.</p>
+<p>3. Use opposite end of the applicator to tuck and secure lash into lash line.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash accessories</s:tag>
+    <s:tag>eyelash applicator</s:tag>
+    <s:tag>eyelash tweezers</s:tag>
+    <s:tag>lash applicator</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Rose Gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Gold</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>hot pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Purple</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Rust</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>rust</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541783085</id>
+      <title>Green</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

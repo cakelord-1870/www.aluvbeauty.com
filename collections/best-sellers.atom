@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.aluvbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.aluvbeauty.com/collections/best-sellers.atom"/>
+  <title>A Luv Beauty </title>
+  <updated>2021-08-19T13:40:43-04:00</updated>
+  <author>
+    <name>A Luv Beauty </name>
+  </author>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134539817005</id>
+    <published>2021-08-19T13:40:43-04:00</published>
+    <updated>2021-08-19T13:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/hawaii-lashes"/>
+    <title>Hawaii</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-hawaii-28464158244909.jpg?v=1629092383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hawaii 15mm Mink Eyelash Extensions adds length and volume, while still being lightweight for a comfortable wear.</p>
+<p>Reusable up to 25 wears.</p>
+<p> </p>
+<p class="p1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>15mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134539817005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>Hawaii</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5162182180909</id>
+    <published>2021-08-09T02:00:00-04:00</published>
+    <updated>2021-08-09T02:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/roxy-faux-mink-lashes"/>
+    <title>Roxy</title>
+    <s:type>Faux Mink</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-faux-mink-roxy-28465021943853.jpg?v=1627990928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Faux Mink<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roxy 3D faux mink lashes 15mm adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>Our Roxy handmade cruelty free lashes are made of Faux Mink. <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>15mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake eyelashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>faux mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5162182180909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Roxy</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5212836331565</id>
+    <published>2021-07-06T13:11:21-04:00</published>
+    <updated>2021-07-06T13:11:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/dazzle-lashes"/>
+    <title>Dazzle</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-dazzle-28476700753965.png?v=1627981745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3D Mink Lashes adds length and volume to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>13mm </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>13mm</s:tag>
+    <s:tag>13mm lashes</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5212836331565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Dazzle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134540406829</id>
+    <published>2021-05-26T03:03:26-04:00</published>
+    <updated>2021-05-26T03:03:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/glam-lashes"/>
+    <title>Glam</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-glam-28465195450413.jpg?v=1627988555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 3D Mink adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>18mm </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm</s:tag>
+    <s:tag>18mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134540406829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Glam</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541226029</id>
+    <published>2021-03-31T02:32:00-04:00</published>
+    <updated>2021-03-31T02:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/amor-lashes"/>
+    <title>Amor</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-amor-28464765075501.jpg?v=1629568605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Amor Faux Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D Amor faux mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2"><span class="s1">3D Faux Mink Lashes </span></li>
+<li class="li2"><span class="s1">15mm </span></li>
+</ul>
+<p class="p1">      </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Amor mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Amor mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Amor mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>15mm lashes</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>review</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541226029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Amor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5293767786541</id>
+    <published>2021-03-29T00:27:56-04:00</published>
+    <updated>2021-03-29T00:27:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/foxy"/>
+    <title>Foxy</title>
+    <s:type>3D Faux Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-faux-mink-lashes-foxy-28430102331437.jpg?v=1627484506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Faux Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Foxy Faux Mink Lashes</p>
+<p>Foxy Faux Mink Lashes instantly adds length and volume to your lashes while still being lightweight for a comfortable wear.</p>
+<p>*Reusable up to 25 wears.</p>
+<p>*Handmade.</p>
+<p>*Cruelty Free.</p>
+<p>*Faux Mink.</p>
+<p>*15mm </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>15mm lashes</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>faux mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5293767786541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Foxy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5292281266221</id>
+    <published>2021-03-29T00:27:54-04:00</published>
+    <updated>2021-03-29T00:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/brit"/>
+    <title>Brit</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-brit-28465618845741.jpg?v=1627985015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>Brit lashes are suitable for all eye shapes, they will widen your eyes and bring the perfect amount of luster to your look.</span></p>
+<p> <span>*</span><span>Lashes can be reused</span><span> 20+ times with proper care.</span></p>
+<p><span>* 16mm mink</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16mm</s:tag>
+    <s:tag>16mm lashes</s:tag>
+    <s:tag>3D mink lash</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5292281266221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Brit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5272179769389</id>
+    <published>2021-03-29T00:27:53-04:00</published>
+    <updated>2021-03-29T00:27:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/confident-mink-lashes"/>
+    <title>Confident</title>
+    <s:type>5D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-5d-mink-lashes-confident-17957745885229.jpg?v=1627150861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>5D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5D Mink Eyelash Extensions  adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p> 25mm</p>
+<p class="p2"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>5D mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5272179769389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Confident</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5267960365101</id>
+    <published>2021-03-29T00:27:51-04:00</published>
+    <updated>2021-03-29T00:27:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/genuine-faux-mink-lashes"/>
+    <title>Genuine</title>
+    <s:type>Faux Mink</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-faux-mink-genuine-28429208551469.png?v=1627762000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Faux Mink<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div class="buildify">Genuine Faux Mink Lashes are the perfect everyday glam lash, gives major lash extension vibes. <br><span></span>
+</div>
+<div class="buildify">
+<p>Lightweight, and subtle.<span class="Apple-converted-space"> </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>faux mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5267960365101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Genuine</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5266653118509</id>
+    <published>2021-03-29T00:27:50-04:00</published>
+    <updated>2021-03-29T00:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/cora-25mm-lashes"/>
+    <title>Cora</title>
+    <s:type>3D Lashes 25mm</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-lashes-25mm-cora-28467266650157.jpg?v=1627984102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Lashes 25mm<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Cora eyelash extensions 25mm is a lash with a dramatic finish that will really make a statement.</span><br><br><span>The Cora 25mm lash is one of the extravagantly full lashes. Super soft and incredibly voluminous, these super lengthening lashes are crafted from a soft, mink. Handmade and reusable for up to 20 wears.</span></p>
+<p><span>25mm </span><span><br></span><span>Handmade <br>Cruelty Free<br></span><span>Reusable up to 20x <br></span><span>3D Mink </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm lashes</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink lash</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5266653118509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Cora</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5260436635693</id>
+    <published>2021-03-29T00:27:49-04:00</published>
+    <updated>2021-03-29T00:27:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/pixie-lashes"/>
+    <title>Bloom</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-bloom-28465306271789.png?v=1628151353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>Bloom lashes 3D Mink 15mm is perfect for everyday glam, these light, flared lashes add natural volume and length for a subtle and classic look.</span></p>
+<p><span>lightweight</span></p>
+<p><span>reusable up to 20x </span></p>
+<p><span>handmade</span></p>
+<p><span>cruelty free </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>15mm lashes</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5260436635693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Bloom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5257053437997</id>
+    <published>2021-03-29T00:27:47-04:00</published>
+    <updated>2021-03-29T00:27:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/amelia-lashes"/>
+    <title>Amelia</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-amelia-28477857562669.jpg?v=1627981246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Amelia lash 3D Mink 15mm is perfect for everyday glam, these light, flared lashes add natural volume and length for a subtle and classic look.</span></p>
+<p><span>lightweight</span></p>
+<p><span>reusable up to 20x </span></p>
+<p><span>handmade</span></p>
+<p><span>cruelty free </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5257053437997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Amelia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5212836790317</id>
+    <published>2021-03-29T00:27:44-04:00</published>
+    <updated>2021-03-29T00:27:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/crush-lashes"/>
+    <title>Crush</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-crush-28464606773293.jpg?v=1628000815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3D Mink Lashes adds length and volume to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p> 13mm</p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>13mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>mink lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5212836790317</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Crush</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5169289461805</id>
+    <published>2021-03-29T00:27:39-04:00</published>
+    <updated>2021-03-29T00:27:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/asal-3d-mink-lashes"/>
+    <title>Asal</title>
+    <s:type>Mink lashes</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-mink-lashes-asal-28453891702829.jpg?v=1627989834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Mink lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 3D Mink adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear.</p>
+<p>Reusable up to 20 wears.</p>
+<p>17mm </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5169289461805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Asal</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5161535733805</id>
+    <published>2021-03-29T00:27:37-04:00</published>
+    <updated>2021-03-29T00:27:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/amira-faux-mink-lashes"/>
+    <title>Amira</title>
+    <s:type>Faux Mink</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-faux-mink-amira-28464632791085.png?v=1628000096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Faux Mink<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amira 18mm faux mink lashes add length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>Our Amira handmade cruelty free lashes are made of Faux mink<br><br> 18mm </p>
+<p>How to Use: Amira Faux mink lashes</p>
+<p>Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</p>
+<p>Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</p>
+<p>Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</p>
+<p> Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>beauty</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>faux mink lashes</s:tag>
+    <s:tag>review</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5161535733805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Amira</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5161528623149</id>
+    <published>2021-03-29T00:27:35-04:00</published>
+    <updated>2021-03-29T00:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/amani-faux-mink-lashes"/>
+    <title>Amani</title>
+    <s:type>Faux Mink</s:type>
+    <s:vendor>A Luv Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-faux-mink-amani-28476897624109.png?v=1627969847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty<br>
+        <strong>Type: </strong>Faux Mink<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 15mm 3D Faux Mink Lashes adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>Our Amani handmade cruelty free lashes are made of Faux Mink. <br><br></p>
+<p>How to Use:</p>
+<p>Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</p>
+<p>Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</p>
+<p>Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</p>
+<p> Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-15mm lashes</s:tag>
+    <s:tag>15mm</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash cosmetics</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>faux mink lashes</s:tag>
+    <s:tag>review</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5161528623149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Amani</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5138030755885</id>
+    <published>2021-03-29T00:27:33-04:00</published>
+    <updated>2021-03-29T00:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/elite-mink-lashes-1"/>
+    <title>Elite</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-elite-28465503895597.jpg?v=1627985514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Elite Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2"><span class="s1">20mm</span></li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Elite mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Elite mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Elite mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20mm</s:tag>
+    <s:tag>20mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5138030755885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Elite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541652013</id>
+    <published>2021-03-29T00:27:28-04:00</published>
+    <updated>2021-03-29T00:27:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/angelic-lashes"/>
+    <title>Angelic</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-angelic-lashes-17267896549421.jpg?v=1609327544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angelic Mink Lashes </p>
+<p>3D mink lashes adds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</p>
+<p> </p>
+<p>Benefits:</p>
+<ul>
+<li>Handmade &amp; high quality </li>
+<li>Cruelty free</li>
+<li>Reusable up to 20 times</li>
+<li>25mm</li>
+<li>3D Mink Lashes </li>
+</ul>
+<p> </p>
+<p> </p>
+<p>How to Use:</p>
+<p>Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Angelic mink lashes.</p>
+<p>Step 2: Once you're ready to apply your Angelic mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</p>
+<p>Step 3: Hold the lash up to your eye to measure for sizing. If the Angelic mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</p>
+<p> Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>beauty</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelash extensions</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541652013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Angelic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541619245</id>
+    <published>2021-03-29T00:27:27-04:00</published>
+    <updated>2021-03-29T00:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/candy-lashes"/>
+    <title>Candy</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-candy-lashes-17523073187885.png?v=1628186986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Candy Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2"><span class="s1">25mm</span></li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Candy mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Candy mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Candy mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541619245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Candy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541586477</id>
+    <published>2021-03-29T00:27:25-04:00</published>
+    <updated>2021-03-29T00:27:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/exotic-lashes"/>
+    <title>Exotic</title>
+    <s:type>3D Mink Lashes 25mm</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-25mm-exotic-28464578527277.png?v=1628002430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes 25mm<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 25mm 3D Mink adds length, volume, and seduction to any look, while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p>Our handmade cruelty free lashes are made of 100% Mink.</p>
+<p> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm lashes</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541586477</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Exotic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541553709</id>
+    <published>2021-03-29T00:27:24-04:00</published>
+    <updated>2021-03-29T00:27:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/devilish-lashes"/>
+    <title>Devilish</title>
+    <s:type>3D Mink Lashes 25mm</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-25mm-devilish-mink-lashes-17552578183213.jpg?v=1628186965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes 25mm<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Devilish Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times<br></span>
+</li>
+<li class="li2"><span class="s1">25mm</span></li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Devilish mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Devilish mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Devilish mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541553709</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Devilish</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541389869</id>
+    <published>2021-03-29T00:27:21-04:00</published>
+    <updated>2021-03-29T00:27:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/bae-lashes"/>
+    <title>Bae</title>
+    <s:type>3D Faux Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-bae-lashes-17659065466925.jpg?v=1628151295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Faux Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Bae Faux Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D Faux Mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2"><span class="s1">Faux Mink </span></li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2"><span class="s1">18mm</span></li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Bae mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Bae mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Bae mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm</s:tag>
+    <s:tag>18mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D faux mink Lashes</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541389869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Bae</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541193261</id>
+    <published>2021-03-29T00:27:18-04:00</published>
+    <updated>2021-03-29T00:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/flirt-lashes"/>
+    <title>Flirt</title>
+    <s:type>3D Mink Lashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-flirt-28476922691629.jpg?v=1627981237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 18mm 3D Mink lash adds length and volume while still being lightweight for a comfortable wear. Reusable up to 25 wears.</p>
+<p> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your false lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your false lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the lash is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm</s:tag>
+    <s:tag>18mm lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541193261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Flirt</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134541062189</id>
+    <published>2021-03-29T00:27:17-04:00</published>
+    <updated>2021-03-29T00:27:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/bling-3d-lashes"/>
+    <title>Bling</title>
+    <s:type>3D Mink Lashes, 25mmLashes</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-25mmlashes-bling-lashes-17521012473901.png?v=1609327608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes, 25mmLashes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Bling Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2"><span class="s1">25mm</span></li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Bling mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Bling mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Bling mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134541062189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Bling</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aluvbeauty.com/products/5134540931117</id>
+    <published>2021-03-29T00:27:15-04:00</published>
+    <updated>2021-03-29T00:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aluvbeauty.com/products/coco-lashes"/>
+    <title>Coco</title>
+    <s:type>3D Mink Lashes 25mm</s:type>
+    <s:vendor>A Luv Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0400/3446/7885/products/a-luv-beauty-3d-mink-lashes-25mm-coco-28470478962733.png?v=1627874248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A Luv Beauty <br>
+        <strong>Type: </strong>3D Mink Lashes 25mm<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2"><span class="s1">Coco Mink Lashes </span></p>
+<p class="p2"><span class="s1">3D mink lashes a</span><span class="s1">dds length, volume and seduction to any look, while still being incredibly lightweight for a comfortable wear.</span></p>
+<p class="p1"> </p>
+<p class="p1"><span style="font-size: 1.5rem; letter-spacing: initial; text-transform: initial; -webkit-text-size-adjust: 100%;">Benefits:</span></p>
+<ul class="ul1">
+<li class="li2">
+<span class="s2"></span><span class="s1">Handmade &amp; high quality </span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Cruelty free</span>
+</li>
+<li class="li2">
+<span class="s2"></span><span class="s1">Reusable up to 20 times</span>
+</li>
+<li class="li2">25mm </li>
+</ul>
+<p class="p1"> </p>
+<p class="p2"><span class="s1">How to Use:</span></p>
+<p class="p2"><span class="s1">Step 1: Prepare your look, curl your lashes and if you are applying mascara do so before applying your Coco mink lashes.</span></p>
+<p class="p2"><span class="s1">Step 2: Once you're ready to apply your Coco mink lashes, carefully remove the lashes from the tray. Pull from the band of one end of the lash, never pulling on the lashes themselves.</span></p>
+<p class="p2"><span class="s1">Step 3: Hold the lash up to your eye to measure for sizing. If the Coco mink lashes is longer than your natural eye shape, trim the lash accordingly, cutting it from the inner or outer corner, which ever you prefer.</span></p>
+<p class="p1"> <span class="s1">Step 4: Place a thin layer of non-permanent glue on the band of the lash, allow it to dry for 30 seconds, then place the lash on top of your natural lash line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mm</s:tag>
+    <s:tag>25mm mink lashes</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3D mink</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>fake lashes</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lash extensions</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>strip lashes</s:tag>
+    <s:variant>
+      <id>https://www.aluvbeauty.com/products/5134540931117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CoCo</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>
